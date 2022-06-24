@@ -1,0 +1,10 @@
+
+
+	##### STEPS #####
+
+faccio una copia di backup del main.cpp,  di fft_funct.cpp e di resonators.cpp e li metto in ./mains_old con il timestap _yyyy_mm_dd [_2020_10_11]
+adesso sostituisco la fft che usavo prima con la mia e rimuovo tutte le generazioni di files che non servono alla logica 
+
+per la logica servono solo filefft, filefilter, monodet, integer, note.txt (che in realta' non cambia mai)
+
+
